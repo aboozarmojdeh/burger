@@ -54,3 +54,10 @@ All the recommended files and directories from the steps above should look like 
         └── main.handlebars
 ```
 
+### Author: Aboozar Mojdeh
+- - -
+* https://www.linkedin.com/in/aboozar-mojdeh
+* https://github.com/aboozarmojdeh
+* http://www.webyouweb.com
+- - -
+
